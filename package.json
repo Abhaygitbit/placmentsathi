@@ -10,9 +10,5 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "private": "true",
-  "workspaces": [
-    "apps/*",
-    "packages/*"
-  ]
+  "private": "true"
 }
